@@ -1,5 +1,5 @@
 # AssetBrowser-FileSize
-Unity Custom Asset Browser to display file size and Texture compressed size difference
+Unity Custom Asset Browser to display files size and Textures compressed size difference
 
 *currently cleaning code before submitting*
 
